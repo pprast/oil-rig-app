@@ -1,0 +1,37 @@
+{
+    "name": "oil-rig-app",
+    "short_name": "oil-rig-app",
+    "description": "kmk munai app",
+    "theme_color": "#001119",
+    "background_color": "#f5f5f5",
+    "display": "standalone",
+    "orientation": "any",
+    "scope": "kmk munai",
+    "start_url": "https://operator.kmkmunai.com/",
+    "icons": [
+        {
+            "src": "icons/icon_72.png",
+            "sizes": "72x72",
+            "type": "image/png",
+            "purpose": "any"
+        },
+        {
+            "src": "icons/icon_96.png",
+            "sizes": "96x96",
+            "type": "image/png",
+            "purpose": "any"
+        },
+        {
+            "src": "icons/maskable_72.png",
+            "sizes": "72x72",
+            "type": "image/png",
+            "purpose": "maskable"
+        },
+        {
+            "src": "icons/maskable_96.png",
+            "sizes": "96x96",
+            "type": "image/png",
+            "purpose": "maskable"
+        }
+    ]
+}
